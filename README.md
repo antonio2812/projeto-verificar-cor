@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Verificação de Cor </h1>
+<h1 align="center"> Projeto Verificador de Cor </h1>
 
 <p align="center">
   <a href="#--projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
